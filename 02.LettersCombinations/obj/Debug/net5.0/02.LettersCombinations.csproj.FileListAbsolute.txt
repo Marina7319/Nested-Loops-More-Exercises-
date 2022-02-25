@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\ref\02.LettersCombinations.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\net5.0\02.LettersCombinations.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\ref\02.LettersCombinations.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\net5.0\02.LettersCombinations.genruntimeconfig.cache

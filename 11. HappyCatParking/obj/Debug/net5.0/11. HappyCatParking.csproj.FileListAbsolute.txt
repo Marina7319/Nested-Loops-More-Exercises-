@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\ref\11. HappyCatParking.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\bin\Debug\net5.0\11. HappyCatParking.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\ref\11. HappyCatParking.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.genruntimeconfig.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\11. HappyCatParking\obj\Debug\net5.0\11. HappyCatParking.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\ref\04.CarNumber.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\net5.0\04.CarNumber.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\ref\04.CarNumber.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\net5.0\04.CarNumber.genruntimeconfig.cache

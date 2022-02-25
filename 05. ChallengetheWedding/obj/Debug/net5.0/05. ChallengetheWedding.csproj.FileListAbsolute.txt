@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\ref\05. ChallengetheWedding.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\bin\Debug\net5.0\05. ChallengetheWedding.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\ref\05. ChallengetheWedding.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\05. ChallengetheWedding\obj\Debug\net5.0\05. ChallengetheWedding.genruntimeconfig.cache

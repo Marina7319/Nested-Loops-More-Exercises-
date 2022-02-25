@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\ref\09.SumofTwoNumbers.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\bin\Debug\net5.0\09.SumofTwoNumbers.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\ref\09.SumofTwoNumbers.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\09.SumofTwoNumbers\obj\Debug\net5.0\09.SumofTwoNumbers.genruntimeconfig.cache

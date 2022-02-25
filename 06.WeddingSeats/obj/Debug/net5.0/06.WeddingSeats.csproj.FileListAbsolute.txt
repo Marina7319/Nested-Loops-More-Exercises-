@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.exe
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.deps.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.runtimeconfig.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\ref\06.WeddingSeats.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\bin\Debug\net5.0\06.WeddingSeats.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.AssemblyInfo.cs
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\ref\06.WeddingSeats.dll
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.pdb
+C:\Users\Marina\source\repos\NestedLoops-MoreExercises\06.WeddingSeats\obj\Debug\net5.0\06.WeddingSeats.genruntimeconfig.cache
